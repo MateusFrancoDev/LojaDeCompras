@@ -22,6 +22,13 @@ export const {
 
       blue500: '#0087',
       blue300: '#00b'
-    }
+    },
+
+    fontSizes: {
+      md: '1.125rem',
+      lg: '1.25rem',
+      xl: '1.5rem',
+      '2xl': '2rem',
+    },
   }
 })
