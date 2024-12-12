@@ -21,7 +21,7 @@ export default function Home() {
         <Image src={camisa1} width={520} height={480} alt="" />
 
         <footer>
-          <strong>Camisa XXssssss</strong>
+          <strong>Camisa Psg</strong>
           <span>R$ 80,00</span>
         </footer>
       </Product>
@@ -30,7 +30,7 @@ export default function Home() {
         <Image src={camisa2} width={520} height={480} alt="" />
 
         <footer>
-          <strong>Camisa XX</strong>
+          <strong>Camisa Ceara</strong>
           <span>R$ 80,00</span>
         </footer>
       </Product>
@@ -39,7 +39,7 @@ export default function Home() {
         <Image src={camisa3} width={520} height={480} alt="" />
 
         <footer>
-          <strong>Camisa XX</strong>
+          <strong>Camisa Corinthains</strong>
           <span>R$ 80,00</span>
         </footer>
       </Product>
