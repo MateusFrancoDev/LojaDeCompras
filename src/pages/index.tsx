@@ -3,9 +3,6 @@ import { useKeenSlider } from "keen-slider/react";
 import Image from "next/image";
 import 'keen-slider/keen-slider.min.css';
 
-import camisa1 from '../assets/psg.webp';
-import camisa2 from '../assets/ceara.webp';
-import camisa3 from '../assets/corinthians.png';
 import { stripe } from "@/lib/stripe";
 import { GetServerSideProps } from "next";
 import Stripe from "stripe";
